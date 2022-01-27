@@ -12,12 +12,12 @@ class Car:
   def breaks(self):
     print(f"break: {self.model_name}, {self.mileage}, {self.manufacture}")
 
+
 if __name__ == '__main__':
-  track = Car("suzuki", 16, "ABC")
   volxs = Car("Ameri", 110, "Barkey")
-
-  track.gas()
-  track.breaks()
-
   volxs.gas()
   volxs.breaks()
+
+
+
+  
