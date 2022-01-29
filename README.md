@@ -13,3 +13,35 @@
 %20%20&#x5C;vdots%20%20&amp;%20&#x5C;vdots%20%20&amp;%20&#x5C;ddots%20&amp;%20&#x5C;vdots%20%20&#x5C;&#x5C;
 %20%20a_{m,1}%20&amp;%20a_{m,2}%20&amp;%20&#x5C;cdots%20&amp;%20a_{m,n}
 %20&#x5C;end{pmatrix}"/>
+  
+```python
+1 + 1
+```
+  
+    2
+  
+```python
+3 + 4
+```
+  
+    7
+  
+##  header
+  
+  
+```python
+a = 1
+```
+  
+```python
+a
+```
+  
+    1
+  
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?e^{i&#x5C;theta}%20=%20&#x5C;cos&#x5C;theta%20+%20i&#x5C;sin&#x5C;theta"/></p>  
+  
+  
+```python
+  
+```
